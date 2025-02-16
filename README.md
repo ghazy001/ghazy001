@@ -1,4 +1,11 @@
+# Hey there :wave:
 
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
 # 🏄‍♂️ Ghazi Saoudi  
 
@@ -29,12 +36,5 @@ Actuellement, je me forme activement aux bonnes pratiques du développement et j
 
 ---
 
-### 📊 Statistiques  
 
-![Ghazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhaziSaoudi&show_icons=true&theme=gruvbox)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhaziSaoudi&layout=compact&theme=gruvbox)  
-![GitHub Streak](https://streak-stats.demolab.com?user=GhaziSaoudi&theme=gruvbox&border_radius=4.5)  
-![Ghazi's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=GhaziSaoudi&theme=gruvbox)  
-
----
 
