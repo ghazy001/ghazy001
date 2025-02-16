@@ -32,6 +32,8 @@ Actuellement, je me forme activement aux bonnes pratiques du développement et j
 <br />  
 
 ---
-
+## 📫 Contact Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ghazi-saoudi-5b6086271/)
+- 📧 Email: saoudi.ghazi@esprit.tn
 
 
