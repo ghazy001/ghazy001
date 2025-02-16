@@ -14,7 +14,7 @@ Mon objectif est de développer des compétences solides en programmation, archi
 
 Actuellement, je me forme activement aux bonnes pratiques du développement et j'expérimente divers langages et frameworks pour élargir mon champ de compétences.  
 
----
+
 
 
 ## 🛠️ Langages et Outils  
@@ -65,11 +65,11 @@ Actuellement, je me forme activement aux bonnes pratiques du développement et j
 <img align="left" alt="Vagrant" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />  
 <img align="left" alt="Jenkins" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />  
 
----
+
 
 <br />  
 
----
+
 ## 📫 Contact Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ghazi-saoudi-5b6086271/)
 - 📧 Email: saoudi.ghazi@esprit.tn
