@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**ghazy001/ghazy001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 🏄‍♂️ Ghazi Saoudi  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**`Étudiant en Génie Logiciel & Passionné de Technologie`**  
+
+Je suis un étudiant en génie logiciel curieux et passionné par l'informatique, le développement et l'innovation numérique. Toujours en quête de nouvelles connaissances, j'explore divers domaines allant du développement web et mobile à l'intelligence artificielle et la cybersécurité.  
+
+Mon objectif est de développer des compétences solides en programmation, architecture logicielle et gestion de projet pour créer des solutions performantes et optimisées. J'aime relever des défis techniques et apprendre de nouvelles technologies pour améliorer mes compétences en ingénierie logicielle.  
+
+Actuellement, je me forme activement aux bonnes pratiques du développement et j'expérimente divers langages et frameworks pour élargir mon champ de compétences.  
+
+---
+
+### 🧰 Langages et Outils  
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />  
+<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />  
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />  
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />  
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />  
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />  
+
+<br />  
+
+---
+
+### 📊 Statistiques  
+
+![Ghazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhaziSaoudi&show_icons=true&theme=gruvbox)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhaziSaoudi&layout=compact&theme=gruvbox)  
+![GitHub Streak](https://streak-stats.demolab.com?user=GhaziSaoudi&theme=gruvbox&border_radius=4.5)  
+![Ghazi's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=GhaziSaoudi&theme=gruvbox)  
+
+---
+
