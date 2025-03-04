@@ -47,7 +47,7 @@ Actuellement, je me forme activement aux bonnes pratiques du développement et j
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />  
 <img align="left" alt="JavaFX" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
 <img align="left" alt="Qt" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />  
-<img align="left" alt="SDL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />  
+<img align="left" alt="SDL" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/sdl.svg" />
 
 <br />  
 
