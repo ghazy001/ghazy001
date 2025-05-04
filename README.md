@@ -84,11 +84,17 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 - 🧠 [Analyse d'émotions](https://github.com/GhaziSaoudi/emotion-detector) – Détection d’émotions faciales avec Python.
 
 ---
-
 ## 📊 GitHub Stats
 
 ![Ghazi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghazy001&show_icons=true&theme=radical)
-[![Ghazi's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghazy001&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+![Ghazi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghazy001&layout=compact&theme=radical)
+
+![Ghazi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghazy001&theme=radical)
+
+![Ghazi's Metrics](https://metrics.lecoq.io/ghazy001?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact)
+
+[![Ghazi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ghazy001&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
