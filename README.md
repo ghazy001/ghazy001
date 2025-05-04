@@ -79,8 +79,8 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 
 ## 📊 GitHub Stats
 
-![Ghazi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhaziSaoudi&show_icons=true&theme=radical)
-[![Ghazi's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GhaziSaoudi&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+![Ghazi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghazy001&show_icons=true&theme=radical)
+[![Ghazi's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghazy001&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
