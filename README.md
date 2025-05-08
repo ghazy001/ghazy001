@@ -96,6 +96,9 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ghazy001&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## 📫 Me contacter
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ghazi-saoudi-5b6086271/)
