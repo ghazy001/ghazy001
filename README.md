@@ -99,7 +99,8 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 [![trophy](https://github-profile-trophy.vercel.app/?username=ghazy001&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghazy001&bg_color=0f172a&color=f472b6&line=22d3ee&point=facc15&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
