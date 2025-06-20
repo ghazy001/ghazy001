@@ -58,10 +58,7 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 ---
 
 ### ☁️ Bases de Données & Cloud
-<div align="left">
-  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/>
-  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
-</div>
+<div align="left"> <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/> <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/> <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/> <img alt="H2" src="https://img.shields.io/badge/Database-H2-lightgrey?logo=datagrip&style=flat-square"/> <img alt="Neo4j" src="https://img.shields.io/badge/GraphDB-Neo4j-009688?logo=neo4j&logoColor=white&style=flat-square"/> </div>
 
 ---
 
