@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
   workflow_dispatch: {}
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          TIME_RANGE: last_7_days   # try 'last_30_days' or 'all_time' if needed
+          TIME_RANGE: last_7_days     # try 'all_time' or 'last_30_days' later if needed
           SHOW_TIME: true
           SHOW_TOTAL: true
-          LANG_COUNT: 7
+          LANG_COUNT: 5
