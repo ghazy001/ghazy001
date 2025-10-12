@@ -93,7 +93,8 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 <!--END_SECTION:waka-->
 
 
-![Snake animation](https://thepiyushmalhotra.github.io/thepiyushmalhotra/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/output/github-contribution-grid-snake.svg)
+
 
 
 ## 📫 Me contacter
