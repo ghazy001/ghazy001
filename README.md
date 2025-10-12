@@ -101,7 +101,7 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 > and my execution leaves no bugs behind. 💻⚔️  
 
 ---
-![Madara](https://i.pinimg.com/originals/8a/0b/5a/8a0b5ad4a89e6896e7e7a9b3b2a1d5b1.gif)
+![Madara](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXh1NnNvbWVmanJ4NGJhdjhoeHJjNmdoY2lvbGczaThhY204aTZyeCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/8SEnoMhrEeBDa/giphy.gif)
 
 
 
