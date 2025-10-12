@@ -93,7 +93,16 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 <!--END_SECTION:waka-->
 
 
-![Snake animation](https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/output/github-contribution-grid-snake.svg)
+## 🔥 "I'm like Madara... but in Software Engineering"
+
+> *"Wake up to reality..." — Madara Uchiha*  
+> Just like Madara mastered chakra, I master code.  
+> My strategies are precise, my systems are powerful,  
+> and my execution leaves no bugs behind. 💻⚔️  
+
+---
+
+![Madara](https://i.pinimg.com/originals/8a/0b/5a/8a0b5ad4a89e6896e7e7a9b3b2a1d5b1.gif)
 
 
 
