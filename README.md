@@ -105,8 +105,5 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 - 📧 saoudi.ghazi@esprit.tn
 
 ---
-
-![Status](https://img.shields.io/badge/Apprend-Angular-red?style=for-the-badge&logo=angular)
-![Focus](https://img.shields.io/badge/Focus-IA-blueviolet?style=for-the-badge&logo=python)
-![Tools](https://img.shields.io/badge/Outils-Docker%2C+Git%2C+Linux-informational?style=for-the-badge&logo=docker)
-
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=120&section=footer"/>
