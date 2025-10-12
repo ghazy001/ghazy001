@@ -117,10 +117,11 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 
 
 ## 📫 Me contacter
-
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ghazi-saoudi-5b6086271/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ghazi-saoudi-5b6086271/)
 - 📧 saoudi.ghazi@esprit.tn
 
----
+
+
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=120&section=footer"/>
