@@ -27,28 +27,73 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 ## 🛠️ Compétences Techniques
 
 ### 🔙 Back-end & API
-<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> </div>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+
 ---
 
 ### 🎨 Front-end & UI/UX
-<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> </div>
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+
 
 ---
 
 ### 🧠 Langages & Frameworks
-<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JavaFX" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/sdl.svg" alt="SDL" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> </div>
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?logo=java&logoColor=white&style=for-the-badge)
+![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white&style=for-the-badge)
+![SDL](https://img.shields.io/badge/SDL-094B88?style=for-the-badge)
 
 ---
 
 ### ☁️ Bases de Données & Cloud
-<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/datagrip.svg" alt="H2 Database" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/neo4j.svg" alt="Neo4j" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> </div>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![H2](https://img.shields.io/badge/H2-4B8BBE?style=for-the-badge)
+![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?logo=neo4j&logoColor=white&style=for-the-badge)
 
 ---
 
 ### 🛡️ DevOps, CI/CD & Outils
-<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" alt="Vagrant" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/sonarqube.svg" alt="SonarQube" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/sonatype.svg" alt="Nexus" width="45" height="45" style="object-fit:contain; margin:5px; border-radius:10px; background:#fff; padding:6px;"/> </div>
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Vagrant](https://img.shields.io/badge/Vagrant-1867C0?logo=vagrant&logoColor=white&style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge)
+![Nexus](https://img.shields.io/badge/Nexus-006699?logo=sonatype&logoColor=white&style=for-the-badge)
+
 
 ---
+
+
+### 🤖 AI/ML & Architecture
+![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-1F425F?logo=python&logoColor=white&style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-2C3E50?logo=docker&logoColor=white&style=for-the-badge)
+
+
+
+---
+
 
 
 ## 📊 GitHub Stats
