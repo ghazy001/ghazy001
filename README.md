@@ -115,6 +115,13 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 <!--END_SECTION:waka-->
 
 
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghazy001/ghazy001/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghazy001/ghazy001/output/snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/ghazy001/ghazy001/output/snake.svg" />
+</picture>
+
 
 ## 📫 Me contacter
 
