@@ -1,121 +1,112 @@
-<!-- Wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=180&section=header&text=Ghazi%20Saoudi&fontSize=48&fontAlignY=35&fontColor=fff&desc=Software%20Engineering%20Student%20|%20AI%20%26%20Cybersecurity%20Enthusiast&descAlignY=55"/>
+# 👋 Hey there!
 
-<!-- Typing intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=F75C7E&center=true&vCenter=true&width=700&lines=Salut%2C+je+suis+Ghazi+Saoudi;Étudiant+en+Génie+Logiciel;Passionné+par+l'IA%2C+la+Cybersécurité+%26+le+Dev;Toujours+prêt+%C3%A0+shipper+des+solutions+propres+et+scalables" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Salut+je+suis+Ghazi+Saoudi;Étudiant+en+Génie+Logiciel;Passionné+par+l'IA%2C+la+cybersécurité%2C+le+dev)
 
-<!-- Quick badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghazy001&style=for-the-badge&label=PROFILE+VIEWS" />
-  <a href="https://www.linkedin.com/in/ghazi-saoudi-5b6086271/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:saoudi.ghazi@esprit.tn"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
-</p>
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 ---
 
-## 🧠 About
-Étudiant curieux et builder dans l’âme, je conçois des systèmes robustes et bien pensés.  
-J’adore résoudre des problèmes complexes, automatiser, monitorer, et optimiser les perfs.
+## 🧑‍💻 À propos de moi
+
+**`Étudiant en Génie Logiciel & Passionné de Technologie`**
+
+Je suis un étudiant curieux, toujours avide de nouvelles connaissances. J’explore plusieurs domaines comme le développement web/mobile, l’intelligence artificielle et la cybersécurité.  
+Mon objectif est de bâtir des solutions robustes, performantes et bien pensées. J’aime résoudre des problèmes complexes et découvrir de nouveaux outils et technologies.
+
+## 🔥 "I'm like Madara... but in Software Engineering"
 
 > *"Wake up to reality..." — Madara Uchiha*  
-> Like Madara mastered chakra, I master code ⚔️
-
+> Just like Madara mastered chakra, I master code.  
+> My strategies are precise, my systems are powerful,  
+> and my execution leaves no bugs behind. 💻⚔️  
+>
 ---
 
-## ⚙️ Tech Stack (uniforme & clean)
-<div align="left">
-  <!-- Back/DevOps icons (même forme) -->
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" height="44" style="object-fit:contain; padding:6px; border-radius:10px; background:#fff; margin:5px"/>
-  <img alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="44" height="44" style="object-fit:contain; padding:6px; border-radius:10px; background:#fff; margin:5px"/>
-  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44" height="44" style="object-fit:contain; padding:6px; border-radius:10px; background:#fff; margin:5px"/>
-  <img alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="44" height="44" style="object-fit:contain; padding:6px; border-radius:10px; background:#fff; margin:5px"/>
-  <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="44" height="44" style="object-fit:contain; padding:6px; border-radius:10px; background:#fff; margin:5px"/>
-  <img alt="Symfony" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="44" height="44" style="object-fit:contain; padding:6px; border-radius:10px; background:#fff; margin:5px"/>
-  <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44" height="44" style="object-fit:contain; padding:6px; border-radius:10px; background:#fff; margin:5px"/>
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44" style="object-fit:contain; padding:6px; border-radius:10px; background:#fff; margin:5px"/>
-  <img alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="44" height="44" style="object-fit:contain; padding:6px; border-radius:10px; background:#fff; margin:5px"/>
-  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" height="44" style="object-fit:contain; padding:6px; border-radius:10px; background:#fff; margin:5px"/>
-  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" height="44" style="object-fit:contain; padding:6px; border-radius:10px; background:#fff; margin:5px"/>
-  <img alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="44" height="44" style="object-fit:contain; padding:6px; border-radius:10px; background:#fff; margin:5px"/>
-  <img alt="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="44" height="44" style="object-fit:contain; padding:6px; border-radius:10px; background:#fff; margin:5px"/>
-  <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="44" height="44" style="object-fit:contain; padding:6px; border-radius:10px; background:#fff; margin:5px"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXh1NnNvbWVmanJ4NGJhdjhoeHJjNmdoY2lvbGczaThhY204aTZyeCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/8SEnoMhrEeBDa/giphy.gif" alt="Madara Uchiha" width="400">
+</p>
 
-  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="44" height="44" style="object-fit:contain; padding:6px; border-radius:10px; background:#fff; margin:5px"/>
-  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="44" height="44" style="object-fit:contain; padding:6px; border-radius:10px; background:#fff; margin:5px"/>
-  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" height="44" style="object-fit:contain; padding:6px; border-radius:10px; background:#fff; margin:5px"/>
-  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="44" height="44" style="object-fit:contain; padding:6px; border-radius:10px; background:#fff; margin:5px"/>
-  <img alt="Vagrant" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="44" height="44" style="object-fit:contain; padding:6px; border-radius:10px; background:#fff; margin:5px"/>
-  <img alt="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="44" height="44" style="object-fit:contain; padding:6px; border-radius:10px; background:#fff; margin:5px"/>
-  <img alt="Prometheus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="44" height="44" style="object-fit:contain; padding:6px; border-radius:10px; background:#fff; margin:5px"/>
-  <img alt="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="44" height="44" style="object-fit:contain; padding:6px; border-radius:10px; background:#fff; margin:5px"/>
-  <img alt="SonarQube" src="https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/sonarqube.svg" width="44" height="44" style="object-fit:contain; padding:6px; border-radius:10px; background:#fff; margin:5px"/>
-  <img alt="Nexus" src="https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/sonatype.svg" width="44" height="44" style="object-fit:contain; padding:6px; border-radius:10px; background:#fff; margin:5px"/>
+
+
+## 🛠️ Compétences Techniques
+
+### 🔙 Back-end & API
+<div align="left">
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+  <img alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="35"/>
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
+  <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35"/>
+  <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35"/>
+  <img alt="Symfony" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="35"/>
+  <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/>
 </div>
 
 ---
 
-## 📊 Animated & Advanced Stats
-
-<!-- Standard trio -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ghazy001&show_icons=true&theme=radical&rank_icon=github" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=ghazy001&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazy001&layout=compact&theme=radical&langs_count=8" />
-</p>
-
-<!-- Activity Graph (anim-style) -->
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghazy001&theme=dracula&area=true&hide_border=true" />
-  </a>
-</p>
-
-<!-- Contribution Snake (anim) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ghazy001/ghazy001/output/snake.svg" alt="snake animation"/>
-</p>
-
-<!-- WakaTime (code time) — optionnel -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ghazi_wakatime&theme=radical&layout=compact" />
-</p>
-
-<!-- Lowlighter Metrics (ultra complet) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ghazy001/ghazy001/master/profile-3d-contrib/profile-night-rainbow.svg" height="300" />
-  <img src="https://raw.githubusercontent.com/ghazy001/ghazy001/master/metrics.classic.svg" height="300" />
-</p>
-
-<details>
-<summary><b>Plus de détails (habits, repos, achievements)</b></summary>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ghazy001/ghazy001/master/metrics.plugin.achievements.compact.svg" height="220" />
-  <img src="https://raw.githubusercontent.com/ghazy001/ghazy001/master/metrics.plugin.habits.facts.svg" height="220" />
-  <img src="https://raw.githubusercontent.com/ghazy001/ghazy001/master/metrics.plugin.languages.details.svg" height="220" />
-</p>
-
-</details>
+### 🎨 Front-end & UI/UX
+<div align="left">
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
+  <img alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="35"/>
+  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/>
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
+  <img alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="35"/>
+  <img alt="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35"/>
+  <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35"/>
+</div>
 
 ---
 
-## 🚀 Projects Spotlight
-<p align="left">
-  <a href="https://github.com/ghazy001/<PROJECT_1>">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ghazy001&repo=<PROJECT_1>&theme=radical" />
-  </a>
-  <a href="https://github.com/ghazy001/<PROJECT_2>">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ghazy001&repo=<PROJECT_2>&theme=radical" />
-  </a>
-</p>
+### 🧠 Langages & Frameworks
+<div align="left">
+  <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35"/>
+  <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/>
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+  <img alt="JavaFX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
+  <img alt="Qt" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="35"/>
+  <img alt="SDL" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/sdl.svg" width="30"/>
+</div>
 
 ---
 
-## 📫 Contact
-- 🔗 <a href="https://www.linkedin.com/in/ghazi-saoudi-5b6086271/">LinkedIn</a>  
+### ☁️ Bases de Données & Cloud
+<div align="left"> <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/> <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/> <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/> <img alt="H2" src="https://img.shields.io/badge/Database-H2-lightgrey?logo=datagrip&style=flat-square"/> <img alt="Neo4j" src="https://img.shields.io/badge/GraphDB-Neo4j-009688?logo=neo4j&logoColor=white&style=flat-square"/> </div>
+
+---
+
+### 🛡️ DevOps, CI/CD & Outils
+<div align="left"> <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/> <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35"/> <img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="35"/> <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/> <img alt="Vagrant" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="35"/> <img alt="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="35"/> <img alt="Prometheus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="35"/> <img alt="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="35"/> <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-Code%20Quality-blue?logo=sonarqube&style=flat-square"/> <img alt="Nexus" src="https://img.shields.io/badge/Nexus-Repository-lightgrey?logo=sonatype&style=flat-square"/> </div>
+
+---
+
+
+## 📊 GitHub Stats
+
+![Ghazi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghazy001&show_icons=true&theme=radical)
+
+![Ghazi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghazy001&layout=compact&theme=radical)
+
+![Ghazi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghazy001&theme=radical)
+
+[![Ghazi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ghazy001&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ghazy001)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+
+## 📫 Me contacter
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ghazi-saoudi-5b6086271/)
 - 📧 saoudi.ghazi@esprit.tn
 
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=120&section=footer"/>
+---
+
+![Status](https://img.shields.io/badge/Apprend-Angular-red?style=for-the-badge&logo=angular)
+![Focus](https://img.shields.io/badge/Focus-IA-blueviolet?style=for-the-badge&logo=python)
+![Tools](https://img.shields.io/badge/Outils-Docker%2C+Git%2C+Linux-informational?style=for-the-badge&logo=docker)
+
