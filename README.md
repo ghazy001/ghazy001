@@ -78,13 +78,7 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 
 ---
 
-## 🚧 Projets
 
-- 🎮 [Jeu de mémoire en React](https://github.com/GhaziSaoudi/memory-game) – Un jeu de logique avec React.
-- 📦 [App Gestion de budget](https://github.com/GhaziSaoudi/budget-app) – Une app Spring Boot + React.
-- 🧠 [Analyse d'émotions](https://github.com/GhaziSaoudi/emotion-detector) – Détection d’émotions faciales avec Python.
-
----
 ## 📊 GitHub Stats
 
 ![Ghazi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghazy001&show_icons=true&theme=radical)
