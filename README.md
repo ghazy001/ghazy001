@@ -98,21 +98,19 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ghazy001&show_icons=true&theme=radical" 
-       height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghazy001&show_icons=true&theme=radical"
+       alt="Ghazi's GitHub Stats" height="160"/>
 
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazy001&layout=compact&theme=radical" 
-       height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazy001&layout=compact&theme=radical"
+       alt="Ghazi's Top Languages" height="160"/>
 
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghazy001&theme=radical" 
-       height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghazy001&theme=radical"
+       alt="Ghazi's GitHub Streak" height="160"/>
 
 </div>
+
 
 
 [![Ghazi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ghazy001&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
