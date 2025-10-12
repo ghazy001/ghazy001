@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # daily at 00:00 UTC
   workflow_dispatch: {}
 
 jobs:
@@ -15,8 +15,13 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          WAKATIME_USER_NAME: "ghazy001"  # <-- your WakaTime username
           SHOW_TITLE: true
-          TIME_RANGE: last_7_days
+          TIME_RANGE: last_30_days   # try 'all_time' if needed
           SHOW_TIME: true
           SHOW_TOTAL: true
+          LANG_COUNT: 7
+          # Optional cosmetics:
+          # SECTION_NAME: waka
+          # BLOCKS: ░▒▓█
+          # STOP_AT_OTHER: true
+          # IGNORED_LANGUAGES: YAML, TOML
