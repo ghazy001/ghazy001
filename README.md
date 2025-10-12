@@ -117,9 +117,13 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 
 
 ## 📫 Me contacter
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ghazi-saoudi-5b6086271/)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ghazi-saoudi-5b6086271/)
-- 📧 saoudi.ghazi@esprit.tn
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ghazi-saoudi-5b6086271/)
+[![Email](https://img.shields.io/badge/Email-saoudi.ghazi@esprit.tn-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:saoudi.ghazi@esprit.tn)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/ghazi_sdi/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/ghazi.saoudi.3/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://ghazi-engineer.vercel.app)
+
 
 
 
