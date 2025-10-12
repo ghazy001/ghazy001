@@ -18,9 +18,7 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 > *"Wake up to reality..." — Madara Uchiha*  
 > Just like Madara mastered chakra, I master code.  
 > My strategies are precise, my systems are powerful,  
-> and my execution leaves no bugs behind. 💻⚔️  
-
----
+> and my execution leaves no bugs behind. 💻⚔️
 ![Madara](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXh1NnNvbWVmanJ4NGJhdjhoeHJjNmdoY2lvbGczaThhY204aTZyeCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/8SEnoMhrEeBDa/giphy.gif)
 
 
