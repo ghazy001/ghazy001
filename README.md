@@ -123,8 +123,12 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 [![Ghazi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ghazy001&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ghazy001&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  </a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ghazy001)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--START_SECTION:waka-->
