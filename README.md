@@ -97,25 +97,42 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 
 
 ## 📊 GitHub Stats
+<div align="center" style="
+  background: linear-gradient(90deg, #141E30 0%, #243B55 100%);
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.3);
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  gap: 15px;
+  overflow-x: auto;
+">
 
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: nowrap; gap: 8px; overflow: auto;">
-
-  <a href="https://github.com/ghazy001">
+  <a href="https://github.com/ghazy001" style="text-decoration: none;">
     <img src="https://github-readme-stats.vercel.app/api?username=ghazy001&show_icons=true&theme=radical"
-         alt="Ghazi's GitHub Stats" width="300" height="160" style="vertical-align: top;"/>
+         alt="Ghazi's GitHub Stats"
+         width="260" height="160"
+         style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.25);" />
   </a>
 
-  <a href="https://github.com/ghazy001">
+  <a href="https://github.com/ghazy001" style="text-decoration: none;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazy001&layout=compact&theme=radical"
-         alt="Ghazi's Top Languages" width="300" height="160" style="vertical-align: top;"/>
+         alt="Ghazi's Top Languages"
+         width="260" height="160"
+         style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.25);" />
   </a>
 
-  <a href="https://github.com/ghazy001">
+  <a href="https://github.com/ghazy001" style="text-decoration: none;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghazy001&theme=radical"
-         alt="Ghazi's GitHub Streak" width="300" height="160" style="vertical-align: top;"/>
+         alt="Ghazi's GitHub Streak"
+         width="260" height="160"
+         style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.25);" />
   </a>
 
 </div>
+
 
 
 
