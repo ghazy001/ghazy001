@@ -1,10 +1,13 @@
 name: Generate Snake
 
+# ✅ grant the token write access
+permissions:
+  contents: write
+
 on:
   schedule:
-    # Runs every day at 23:00 UTC
     - cron: "0 23 * * *"
-  workflow_dispatch: {}   # allows manual run
+  workflow_dispatch: {}
   push:
     branches: [ main ]
 
@@ -15,7 +18,7 @@ jobs:
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
-          github_user_name: ghazy001
+          github_user_name: ghazy001   # ← change if needed
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
@@ -25,5 +28,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          # (optional) keep history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
