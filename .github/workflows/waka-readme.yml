@@ -1,23 +1,24 @@
-name: WakaTime Readme Stats
+name: Update WakaTime stats
+
+permissions:
+  contents: write
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once a day
-  workflow_dispatch:    # Allows manual runs
+    - cron: "0 0 * * *"   # daily at 00:00 UTC
+  workflow_dispatch: {}    # allow manual run
 
 jobs:
   update-readme:
-    name: Update WakaTime stats
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_TOTAL_CODE_TIME: "True"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_EDITORS: "True"
-          SHOW_OS: "True"
+          # Optional filters (tweak as you like):
+          # SHOW_TITLE: true
+          # BLOCKS: ->,■
+          # TIME_RANGE: last_7_days
+          # SHOW_TIME: true
+          # SHOW_TOTAL: true
+          # LANG_COUNT: 5
