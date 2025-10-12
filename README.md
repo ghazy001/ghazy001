@@ -13,7 +13,16 @@
 Je suis un étudiant curieux, toujours avide de nouvelles connaissances. J’explore plusieurs domaines comme le développement web/mobile, l’intelligence artificielle et la cybersécurité.  
 Mon objectif est de bâtir des solutions robustes, performantes et bien pensées. J’aime résoudre des problèmes complexes et découvrir de nouveaux outils et technologies.
 
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+## 🔥 "I'm like Madara... but in Software Engineering"
+
+> *"Wake up to reality..." — Madara Uchiha*  
+> Just like Madara mastered chakra, I master code.  
+> My strategies are precise, my systems are powerful,  
+> and my execution leaves no bugs behind. 💻⚔️  
+
+---
+![Madara](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXh1NnNvbWVmanJ4NGJhdjhoeHJjNmdoY2lvbGczaThhY204aTZyeCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/8SEnoMhrEeBDa/giphy.gif)
+
 
 ---
 
@@ -91,18 +100,6 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-
-## 🔥 "I'm like Madara... but in Software Engineering"
-
-> *"Wake up to reality..." — Madara Uchiha*  
-> Just like Madara mastered chakra, I master code.  
-> My strategies are precise, my systems are powerful,  
-> and my execution leaves no bugs behind. 💻⚔️  
-
----
-![Madara](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXh1NnNvbWVmanJ4NGJhdjhoeHJjNmdoY2lvbGczaThhY204aTZyeCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/8SEnoMhrEeBDa/giphy.gif)
-
 
 
 
