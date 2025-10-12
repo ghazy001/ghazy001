@@ -98,24 +98,25 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 10px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: nowrap; gap: 8px; overflow: auto;">
 
   <a href="https://github.com/ghazy001">
-    <img src="https://github-readme-stats.vercel.app/api?username=ghazy001&show_icons=true&theme=radical" 
-         alt="Ghazi's GitHub Stats" height="180" style="vertical-align: top;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ghazy001&show_icons=true&theme=radical"
+         alt="Ghazi's GitHub Stats" width="260" height="160" style="vertical-align: top;"/>
   </a>
 
   <a href="https://github.com/ghazy001">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazy001&layout=compact&theme=radical"
-         alt="Ghazi's Top Languages" height="180" style="vertical-align: top;"/>
+         alt="Ghazi's Top Languages" width="260" height="160" style="vertical-align: top;"/>
   </a>
 
   <a href="https://github.com/ghazy001">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghazy001&theme=radical"
-         alt="Ghazi's GitHub Streak" height="180" style="vertical-align: top;"/>
+         alt="Ghazi's GitHub Streak" width="260" height="160" style="vertical-align: top;"/>
   </a>
 
 </div>
+
 
 
 
