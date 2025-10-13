@@ -1,12 +1,11 @@
 name: 🕒 Update WakaTime Stats
 
-# Required so the action can commit back to the repo
 permissions:
   contents: write
 
 on:
   schedule:
-    - cron: "30 3 * * *"   # daily at 03:30 UTC (safe after aggregation)
+    - cron: "30 22 * * *"   # daily 22:30 UTC (~end of your local day)
   workflow_dispatch: {}
 
 concurrency:
@@ -15,32 +14,16 @@ concurrency:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
-          # 🔐 Required
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
-          # 📝 If this is NOT your profile repo, also pass a PAT with contents:write
-          # GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
-          # 📍 If you're updating a non-profile repo, set the exact target
-          # REPOSITORY: ghazi-saoudi/some-repo
-          # TARGET_BRANCH: main
-          # TARGET_PATH: README.md
-
-          # 🧩 Content
           SHOW_TITLE: true
-          SECTION_NAME: waka
-          TIME_RANGE: last_30_days       # switch to last_7_days whenever you prefer
+          TIME_RANGE: today            # ← include same-day stats
           SHOW_TIME: true
           SHOW_TOTAL: true
           LANG_COUNT: 7
+          SECTION_NAME: waka
           BLOCKS: "░▒▓█"
-
-          # 📝 Commit meta (optional but nice)
           COMMIT_MESSAGE: "🔄 Updated WakaTime graph with new metrics"
-          # COMMITTER_NAME: "GitHubActionBot"
-          # COMMITTER_EMAIL: "action-bot@github.com"
