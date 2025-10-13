@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    # Run daily at 03:30 UTC instead of midnight
+    # Run daily at 03:30 UTC (after WakaTime aggregation)
     - cron: "30 3 * * *"
   workflow_dispatch: {}
 
@@ -19,10 +19,10 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          TIME_RANGE: last_7_days     # You can try 'last_30_days' if it still shows 0
+          TIME_RANGE: last_30_days   # ← use 'all_time' if you still see 0 secs
           SHOW_TIME: true
           SHOW_TOTAL: true
           LANG_COUNT: 7
-          BLOCKS: ░▒▓█
           SECTION_NAME: waka
+          BLOCKS: ░▒▓█
           COMMIT_MESSAGE: "🔄 Updated WakaTime graph with new metrics"
