@@ -1,0 +1,43 @@
+name: Activity Overview
+
+on:
+  schedule:
+    - cron: '0 3 * * *'   # daily at 03:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Activity Overview (SVG)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}   # or GITHUB_TOKEN, but PAT recommended
+          user: ghazy001                       # <-- put your username here
+          template: classic
+          base: activity, repositories, metadata
+          filename: dist/metrics/activity-overview.svg
+          output_action: none
+          config_timezone: UTC
+
+          # Activity plugin config (tweak as you like)
+          plugin_activity: yes
+          plugin_activity_limit: 10           # last N events listed
+          plugin_activity_days: 14            # window to inspect
+          plugin_activity_filter: issue, pr, review, fork, star
+
+      - name: Publish to output branch (keep other assets)
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+          commit_message: "Update activity overview"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
