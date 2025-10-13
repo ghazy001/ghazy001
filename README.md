@@ -99,7 +99,7 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghazy001/ghazy001/output/snake.svg" />
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/ghazy001/ghazy001/output/snake.svg" />
 </picture>
----
+
 
 
 ## 📊 GitHub Stats
