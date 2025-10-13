@@ -19,7 +19,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          TIME_RANGE: last_30_days   # ← use 'all_time' if you still see 0 secs
+          TIME_RANGE: all_time   # ← use 'all_time' if you still see 0 secs
           SHOW_TIME: true
           SHOW_TOTAL: true
           LANG_COUNT: 7
