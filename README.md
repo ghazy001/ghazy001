@@ -102,17 +102,17 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 
   <a href="https://github.com/ghazy001">
     <img src="https://github-readme-stats.vercel.app/api?username=ghazy001&show_icons=true&theme=radical"
-         alt="Ghazi's GitHub Stats" width="330" height="160" style="vertical-align: top;"/>
+         alt="Ghazi's GitHub Stats" width="270" height="160" style="vertical-align: top;"/>
   </a>
 
   <a href="https://github.com/ghazy001">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazy001&layout=compact&theme=radical"
-         alt="Ghazi's Top Languages" width="300" height="160" style="vertical-align: top;"/>
+         alt="Ghazi's Top Languages" width="240" height="160" style="vertical-align: top;"/>
   </a>
 
   <a href="https://github.com/ghazy001">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghazy001&theme=radical"
-         alt="Ghazi's GitHub Streak" width="330" height="160" style="vertical-align: top;"/>
+         alt="Ghazi's GitHub Streak" width="270" height="160" style="vertical-align: top;"/>
   </a>
 
 </div>
