@@ -2,7 +2,7 @@ name: Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: '0 2 * * *' # daily at 02:00 UTC
+    - cron: '0 2 * * *'   # daily at 02:00 UTC
   workflow_dispatch:
   push:
     branches:
@@ -24,7 +24,7 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Build SVGs
+      - name: Build Pac-Man SVGs
         run: |
           mkdir -p dist
           npx --yes pacman-contribution-graph --platform github --username "${{ github.repository_owner }}" --gameTheme github --output dist/pacman-contribution-graph.svg
@@ -32,10 +32,20 @@ jobs:
           echo "--- ls dist ---"
           ls -l dist
 
-      - name: Publish to output branch
+      - name: Move to pacman subfolder
+        run: |
+          mkdir -p dist/pacman
+          mv dist/pacman-contribution-graph.svg dist/pacman/pacman-contribution-graph.svg
+          mv dist/pacman-contribution-graph-dark.svg dist/pacman/pacman-contribution-graph-dark.svg
+          echo "--- ls dist/pacman ---"
+          ls -l dist/pacman
+
+      - name: Publish pacman images to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
+          commit_message: "Update Pac-Man contribution graph"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
