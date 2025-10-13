@@ -93,7 +93,7 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 
 
 ---
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghazy001/ghazy001/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghazy001/ghazy001/output/snake.svg" />
@@ -154,7 +154,8 @@ No activity tracked
 
 
 
-## My Contribution Graph
+## 🎮 Game of Commits: Pac-Man Edition
+
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghazy001/ghazy001/refs/heads/output/pacman/pacman-contribution-graph-dark.svg">
