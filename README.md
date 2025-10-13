@@ -137,7 +137,7 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2025 - To: 12 October 2025
+From: 07 May 2025 - To: 12 October 2025
 
 Total Time: 0 secs
 
