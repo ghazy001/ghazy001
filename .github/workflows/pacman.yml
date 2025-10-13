@@ -1,0 +1,39 @@
+name: Pac-Man Contribution Graph
+
+on:
+schedule:
+# Runs every day at 02:00 UTC
+- cron: "0 2 * * *"
+workflow_dispatch: {}
+push:
+branches: [ main ]
+
+permissions:
+contents: write
+
+jobs:
+generate:
+runs-on: ubuntu-latest
+timeout-minutes: 10
+steps:
+- name: Checkout
+uses: actions/checkout@v4
+
+- name: Setup Node
+uses: actions/setup-node@v4
+with:
+node-version: 20
+
+- name: Build SVGs
+run: |
+mkdir -p dist
+npx pacman-contribution-graph --platform github --username "${{ github.repository_owner }}" --gameTheme github --output dist/pacman-contribution-graph.svg
+npx pacman-contribution-graph --platform github --username "${{ github.repository_owner }}" --gameTheme github-dark --output dist/pacman-contribution-graph-dark.svg
+
+- name: Publish to output branch
+uses: crazy-max/ghaction-github-pages@v4
+with:
+target_branch: output
+build_dir: dist
+env:
+GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
