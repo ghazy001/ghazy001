@@ -1,20 +1,28 @@
-# .github/workflows/waka.yml
-name: WakaTime Stats
+name: 🕒 Update WakaTime Stats
+
 permissions:
   contents: write
+
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # Run daily at 03:30 UTC instead of midnight
+    - cron: "30 3 * * *"
   workflow_dispatch: {}
+
 jobs:
   update-readme:
+    name: Update WakaTime section
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - name: 🧠 Generate WakaTime stats
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          TIME_RANGE: last_30_days   # <-- try this (or 'all_time')
+          TIME_RANGE: last_7_days     # You can try 'last_30_days' if it still shows 0
           SHOW_TIME: true
           SHOW_TOTAL: true
           LANG_COUNT: 7
+          BLOCKS: ░▒▓█
+          SECTION_NAME: waka
+          COMMIT_MESSAGE: "🔄 Updated WakaTime graph with new metrics"
