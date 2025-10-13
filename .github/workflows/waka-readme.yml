@@ -5,21 +5,18 @@ permissions:
 
 on:
   schedule:
-    # Run daily at 03:30 UTC (after WakaTime aggregation)
-    - cron: "30 3 * * *"
+    - cron: "30 3 * * *"   # run daily at 03:30 UTC (after WakaTime aggregation)
   workflow_dispatch: {}
 
 jobs:
   update-readme:
-    name: Update WakaTime section
     runs-on: ubuntu-latest
     steps:
-      - name: 🧠 Generate WakaTime stats
-        uses: athul/waka-readme@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          TIME_RANGE: all_time   # ← use 'all_time' if you still see 0 secs
+          TIME_RANGE: last_30_days     # ← keep for now; switch back to last_7_days later
           SHOW_TIME: true
           SHOW_TOTAL: true
           LANG_COUNT: 7
