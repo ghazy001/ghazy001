@@ -163,9 +163,6 @@ No activity tracked
 </picture>
 
 
-## Activity overview
-
-<img src="https://raw.githubusercontent.com/ghazy001/ghazy001/output/metrics/activity-overview.svg" alt="GitHub activity overview">
 
 
 ## 📫 Me contacter
