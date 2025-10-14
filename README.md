@@ -143,11 +143,17 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2025 - To: 12 October 2025
+From: 06 October 2025 - To: 13 October 2025
 
-Total Time: 0 secs
+Total Time: 1 hr 36 mins
 
-No activity tracked
+XML          36 mins         █████████▒░░░░░░░░░░░░░░░   37.47 %
+PHP          24 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.06 %
+TypeScript   13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
+HTML         11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
+JavaScript   10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
+Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
