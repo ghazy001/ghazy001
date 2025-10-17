@@ -143,17 +143,17 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2025 - To: 15 October 2025
+From: 09 October 2025 - To: 16 October 2025
 
-Total Time: 2 hrs 9 mins
+Total Time: 2 hrs 17 mins
 
-HTML         39 mins         ███████▓░░░░░░░░░░░░░░░░░   30.14 %
-XML          36 mins         ███████░░░░░░░░░░░░░░░░░░   27.99 %
-PHP          24 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.71 %
-TypeScript   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-JavaScript   10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
-Java         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+HTML         39 mins         ███████░░░░░░░░░░░░░░░░░░   28.43 %
+XML          36 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.40 %
+PHP          24 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.65 %
+TypeScript   15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
+JavaScript   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+JSON         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+Java         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
