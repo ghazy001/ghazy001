@@ -143,17 +143,17 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2025 - To: 17 October 2025
+From: 11 October 2025 - To: 18 October 2025
 
-Total Time: 4 hrs 32 mins
+Total Time: 11 hrs 42 mins
 
-PHP              1 hr 57 mins    ██████████▓░░░░░░░░░░░░░░   43.17 %
-Blade Template   41 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
-HTML             39 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
-XML              36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
-TypeScript       15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-JavaScript       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-JSON             5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+PHP              5 hrs 16 mins   ███████████▒░░░░░░░░░░░░░   45.02 %
+Blade Template   3 hrs 53 mins   ████████▒░░░░░░░░░░░░░░░░   33.22 %
+HTML             39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+XML              36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+TypeScript       15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+JavaScript       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+CSS              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
