@@ -143,17 +143,17 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2025 - To: 25 October 2025
+From: 19 October 2025 - To: 26 October 2025
 
-Total Time: 7 hrs 11 mins
+Total Time: 12 hrs 27 mins
 
-PHP                            3 hrs 18 mins   ███████████▒░░░░░░░░░░░░░   45.99 %
-Blade Template                 1 hr 31 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.16 %
-Bash                           52 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
-textmate                       30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-YAML                           27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-Docker                         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-Dockerfile                     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+HTML                           3 hrs 32 mins   ███████░░░░░░░░░░░░░░░░░░   28.29 %
+Python                         3 hrs 16 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.19 %
+PHP                            3 hrs 11 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.56 %
+Blade Template                 1 hr 31 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+textmate                       27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+Bash                           25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Other                          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
