@@ -143,17 +143,17 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2025 - To: 26 October 2025
+From: 20 October 2025 - To: 27 October 2025
 
-Total Time: 12 hrs 27 mins
+Total Time: 15 hrs 50 mins
 
-HTML                           3 hrs 32 mins   ███████░░░░░░░░░░░░░░░░░░   28.29 %
-Python                         3 hrs 16 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.19 %
-PHP                            3 hrs 11 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.56 %
-Blade Template                 1 hr 31 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
-textmate                       27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-Bash                           25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-Other                          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+HTML                           4 hrs 57 mins   ███████▓░░░░░░░░░░░░░░░░░   31.21 %
+Python                         4 hrs 35 mins   ███████▒░░░░░░░░░░░░░░░░░   28.92 %
+PHP                            3 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   20.11 %
+Blade Template                 1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
+Bash                           40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+textmate                       27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+TypeScript                     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
