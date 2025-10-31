@@ -143,17 +143,17 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2025 - To: 29 October 2025
+From: 23 October 2025 - To: 30 October 2025
 
-Total Time: 16 hrs 11 mins
+Total Time: 13 hrs 45 mins
 
-Python           6 hrs 27 mins   ██████████░░░░░░░░░░░░░░░   39.76 %
-HTML             5 hrs 13 mins   ████████░░░░░░░░░░░░░░░░░   32.17 %
-PHP              2 hrs 28 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
-Blade Template   1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-Bash             25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-TypeScript       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-Env File         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Python           6 hrs 45 mins   ████████████▒░░░░░░░░░░░░   49.00 %
+HTML             6 hrs 8 mins    ███████████░░░░░░░░░░░░░░   44.48 %
+Bash             18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+TypeScript       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+GitIgnore file   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Env File         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Text             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
