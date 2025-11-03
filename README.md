@@ -143,17 +143,17 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2025 - To: 01 November 2025
+From: 26 October 2025 - To: 02 November 2025
 
-Total Time: 14 hrs 6 mins
+Total Time: 9 hrs 19 mins
 
-Python           6 hrs 52 mins   ████████████░░░░░░░░░░░░░   48.52 %
-HTML             6 hrs 14 mins   ███████████░░░░░░░░░░░░░░   44.14 %
-Bash             18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-TypeScript       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Git Config       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-GitIgnore file   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Env File         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Python           5 hrs 16 mins   ██████████████░░░░░░░░░░░   56.65 %
+HTML             2 hrs 42 mins   ███████▒░░░░░░░░░░░░░░░░░   29.07 %
+JSON             21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Bash             17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+TypeScript       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Git Config       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+GitIgnore file   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
