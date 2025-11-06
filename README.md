@@ -182,6 +182,5 @@ Bash             2 mins          ▒░░░░░░░░░░░░░░�
 
 
 
-
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=120&section=footer"/>
