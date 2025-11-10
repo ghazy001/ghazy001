@@ -143,13 +143,13 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2025 - To: 08 November 2025
+From: 02 November 2025 - To: 09 November 2025
 
-Total Time: 2 hrs 6 mins
+Total Time: 25 mins
 
-Python     1 hr 43 mins    ████████████████████▓░░░░   82.12 %
-JSON       21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.41 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Python     17 mins         █████████████████▒░░░░░░░   69.34 %
+Text       7 mins          ███████▒░░░░░░░░░░░░░░░░░   29.12 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
 <!--END_SECTION:waka-->
