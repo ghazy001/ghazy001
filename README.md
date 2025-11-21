@@ -143,11 +143,13 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 November 2025 - To: 19 November 2025
+From: 13 November 2025 - To: 20 November 2025
 
-Total Time: 0 secs
+Total Time: 19 mins
 
-No activity tracked
+Bash         17 mins         ███████████████████████░░   92.03 %
+JavaScript   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
