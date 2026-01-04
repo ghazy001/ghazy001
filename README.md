@@ -143,13 +143,11 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2025 - To: 02 January 2026
+From: 27 December 2025 - To: 03 January 2026
 
-Total Time: 3 mins
+Total Time: 0 secs
 
-Python   2 mins          ███████████████▒░░░░░░░░░   61.74 %
-Bash     1 min           ████████▒░░░░░░░░░░░░░░░░   32.77 %
-Text     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
