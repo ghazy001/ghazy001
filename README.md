@@ -143,17 +143,11 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2026 - To: 11 February 2026
+From: 05 February 2026 - To: 12 February 2026
 
-Total Time: 3 hrs 15 mins
+Total Time: 3 mins
 
-Python             2 hrs 53 mins   ██████████████████████▒░░   88.91 %
-JavaScript         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-Env File           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-Text               2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Requirements.txt   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-INI                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-GitIgnore file     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Python   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
