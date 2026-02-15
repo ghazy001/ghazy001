@@ -143,11 +143,17 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2026 - To: 13 February 2026
+From: 07 February 2026 - To: 14 February 2026
 
-Total Time: 0 secs
+Total Time: 3 hrs 5 mins
 
-No activity tracked
+TypeScript   1 hr 35 mins    ████████████▓░░░░░░░░░░░░   51.10 %
+Prisma       29 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
+JSON         28 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
+YAML         12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+Bash         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+TSConfig     8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+.env file    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
