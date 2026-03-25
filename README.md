@@ -130,9 +130,13 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghazy001&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghazy001&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazy001&layout=compact&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghazy001&theme=tokyo-night" />
+</p>
 
 
 
