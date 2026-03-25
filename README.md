@@ -130,9 +130,8 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghazy001&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazy001&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=ffffff" />
 </p>
-
 
 
 
