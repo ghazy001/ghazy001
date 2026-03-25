@@ -131,12 +131,12 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 ---
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?ghazy001=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ghazy001&theme=onedark" alt="GitHub Trophies"/>
   </a>
 </p>
 
 
-[![trophy]()
+
 
 
 
