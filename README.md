@@ -135,23 +135,18 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 
 
 
+<h2 align="center">📊 Coding Activity</h2>
+
+<p align="center">
+  <i>Last 7 days</i>
+</p>
+
+<div align="center">
+
 <!--START_SECTION:waka-->
-
 ```txt
-From: 19 March 2026 - To: 26 March 2026
-
-Total Time: 8 hrs 20 mins
-
-TypeScript       4 hrs 22 mins         █████████████░░░░░░░░░░░░   52.36 %
-C++              1 hr 12 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
-JSON             28 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-Image (svg)      27 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-Markdown         21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-Prisma           19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-C                15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-```
-
-<!--END_SECTION:waka-->
+No activity tracked
+<!--END_SECTION:waka--> </div> ```
 
 
 
