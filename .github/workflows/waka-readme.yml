@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "30 22 * * *"
+    - cron: "30 22 * * *"   # daily 22:30 UTC (~end of your local day)
   workflow_dispatch: {}
 
 concurrency:
@@ -15,19 +15,15 @@ concurrency:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: false
-          TIME_RANGE: last_7_days
+          SHOW_TITLE: true
+          TIME_RANGE: last_7_days            
           SHOW_TIME: true
           SHOW_TOTAL: true
-          LANG_COUNT: 6
+          LANG_COUNT: 7
           SECTION_NAME: waka
-          CODE_LANG: txt
-          BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
-          STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: Binary,YAML,TOML
-          COMMIT_MESSAGE: "✨ refresh WakaTime stats"
+          BLOCKS: "░▒▓█"
+          COMMIT_MESSAGE: "🔄 Updated WakaTime graph with new metrics"
