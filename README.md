@@ -134,19 +134,20 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
 </p>
 
 
-
-<h2 align="center">📊 Coding Activity</h2>
+<h2 align="center">📊 Weekly Coding Activity</h2>
 
 <p align="center">
-  <i>Last 7 days</i>
+  <i>Tracked automatically with WakaTime</i>
 </p>
 
-<div align="center">
+<details open>
+  <summary><b>Last 7 Days Breakdown</b></summary>
+  <br />
 
 <!--START_SECTION:waka-->
 ```txt
 No activity tracked
-<!--END_SECTION:waka--> </div> ```
+<!--END_SECTION:waka-->
 
 
 
