@@ -20,8 +20,6 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
-          # display
           SHOW_TITLE: false
           TIME_RANGE: last_7_days
           SHOW_TIME: true
@@ -30,10 +28,6 @@ jobs:
           SECTION_NAME: waka
           CODE_LANG: txt
           BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
-
-          # cleanup
           STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: Binary YAML TOML
-
-          # commit
+          IGNORED_LANGUAGES: Binary,YAML,TOML
           COMMIT_MESSAGE: "✨ refresh WakaTime stats"
