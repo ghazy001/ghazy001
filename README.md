@@ -147,17 +147,17 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
   <!--START_SECTION:waka-->
 
 ```txt
-From: 20 March 2026 - To: 27 March 2026
+From: 21 March 2026 - To: 28 March 2026
 
-Total Time: 8 hrs 28 mins
+Total Time: 8 hrs 31 mins
 
-TypeScript       4 hrs 22 mins         █████████████░░░░░░░░░░░░   51.67 %
-C++              1 hr 12 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
-JSON             30 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-Image (svg)      27 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-Markdown         21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-Prisma           19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-C                15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+TypeScript       4 hrs 22 mins         █████████████░░░░░░░░░░░░   51.34 %
+C++              1 hr 12 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
+JSON             33 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+Image (svg)      27 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Markdown         21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+Prisma           19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+C                15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
 ```
 
 <!--END_SECTION:waka--> 
