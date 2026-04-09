@@ -147,17 +147,17 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
   <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2026 - To: 07 April 2026
+From: 01 April 2026 - To: 08 April 2026
 
 Total Time: 3 hrs 35 mins
 
-TypeScript    2 hrs 39 mins         █████████████████░░░░░░░░   67.70 %
-JSON          22 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-Other         19 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
-C++           10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+TypeScript    2 hrs 39 mins         █████████████████░░░░░░░░   67.84 %
+JSON          22 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
+Other         19 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+C++           10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
 CMake         6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
 C             4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Markdown      3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Markdown      3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka--> 
