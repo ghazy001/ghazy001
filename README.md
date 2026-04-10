@@ -147,17 +147,17 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
   <!--START_SECTION:waka-->
 
 ```txt
-From: 01 April 2026 - To: 08 April 2026
+From: 02 April 2026 - To: 09 April 2026
 
-Total Time: 3 hrs 35 mins
+Total Time: 59 mins
 
-TypeScript    2 hrs 39 mins         █████████████████░░░░░░░░   67.84 %
-JSON          22 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-Other         19 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
-C++           10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-CMake         6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-C             4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Markdown      3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+TypeScript    33 mins               ███████████░░░░░░░░░░░░░░   44.15 %
+Other         16 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.99 %
+C++           10 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
+CMake         6 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
+C             4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Objective-C   1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Bash          1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka--> 
