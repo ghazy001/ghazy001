@@ -147,17 +147,15 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
   <!--START_SECTION:waka-->
 
 ```txt
-From: 02 April 2026 - To: 09 April 2026
+From: 03 April 2026 - To: 10 April 2026
 
-Total Time: 59 mins
+Total Time: 24 mins
 
-TypeScript    33 mins               ███████████░░░░░░░░░░░░░░   44.15 %
-Other         16 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.99 %
-C++           10 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
-CMake         6 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-C             4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-Objective-C   1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-Bash          1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Other         16 mins               ██████████▒░░░░░░░░░░░░░░   40.94 %
+C++           10 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.46 %
+CMake         6 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
+C             4 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+Objective-C   1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
 ```
 
 <!--END_SECTION:waka--> 
