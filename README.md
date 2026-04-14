@@ -147,15 +147,11 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
   <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2026 - To: 12 April 2026
+From: 06 April 2026 - To: 13 April 2026
 
-Total Time: 24 mins
+Total Time: 0 secs
 
-Other         24 mins               ████████████▓░░░░░░░░░░░░   50.68 %
-C++           10 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.09 %
-CMake         6 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
-C             4 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
-Objective-C   1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Other   19 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka--> 
