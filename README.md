@@ -147,11 +147,15 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
   <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2026 - To: 17 April 2026
+From: 11 April 2026 - To: 18 April 2026
 
-Total Time: 0 secs
+Total Time: 3 hrs 48 mins
 
-Other   19 mins               █████████████████████████   100.00 %
+TypeScript     3 hrs 21 mins         ████████████████████░░░░░   79.57 %
+Other          25 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
+Markdown       15 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+Prisma         10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+HTTP Request   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka--> 
