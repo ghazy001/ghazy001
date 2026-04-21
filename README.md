@@ -147,17 +147,17 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
   <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2026 - To: 19 April 2026
+From: 13 April 2026 - To: 20 April 2026
 
-Total Time: 11 hrs 17 mins
+Total Time: 14 hrs 49 mins
 
-TypeScript     9 hrs 44 mins         ███████████████████▓░░░░░   79.16 %
-Other          1 hr 1 min            ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
-Prisma         30 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Markdown       23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-.env file      18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Bash           18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-HTTP Request   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+TypeScript       11 hrs 41 mins        ████████████████▒░░░░░░░░   65.97 %
+Other            2 hrs 53 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
+Markdown         1 hr 49 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+Prisma           31 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+.env file        24 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Bash             19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+HTTP Request     1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka--> 
