@@ -147,15 +147,15 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
   <!--START_SECTION:waka-->
 
 ```txt
-From: 26 April 2026 - To: 03 May 2026
+From: 27 April 2026 - To: 04 May 2026
 
 Total Time: 18 mins
 
-Other        31 mins               ███████████████▓░░░░░░░░░   62.91 %
-.env file    8 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.50 %
+Other        31 mins               ███████████████▓░░░░░░░░░   62.93 %
+.env file    8 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
 Bash         6 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
 Text         3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
-TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka--> 
