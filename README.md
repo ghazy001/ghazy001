@@ -147,15 +147,16 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
   <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2026 - To: 10 May 2026
+From: 04 May 2026 - To: 11 May 2026
 
-Total Time: 7 hrs 47 mins
+Total Time: 7 hrs 52 mins
 
-TypeScript   5 hrs 44 mins         ████████████████▒░░░░░░░░   64.96 %
-Markdown     1 hr 31 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.34 %
-Other        1 hr 2 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
-Prisma       19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-Bash         11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+TypeScript   5 hrs 47 mins         ████████████████▒░░░░░░░░   64.79 %
+Markdown     1 hr 31 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
+Other        1 hr 3 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
+Prisma       19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Bash         11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+JSON         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 .env file    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
