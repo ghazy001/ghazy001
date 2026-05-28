@@ -147,17 +147,17 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
   <!--START_SECTION:waka-->
 
 ```txt
-From: 19 May 2026 - To: 26 May 2026
+From: 21 May 2026 - To: 28 May 2026
 
-Total Time: 12 hrs 20 mins
+Total Time: 4 hrs 31 mins
 
-TypeScript         7 hrs 46 mins         ████████████▓░░░░░░░░░░░░   50.74 %
-Other              2 hrs 58 mins         █████░░░░░░░░░░░░░░░░░░░░   19.47 %
-Markdown           49 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-Docker             49 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-Dockerfile         39 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-Python             27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-.env file          25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+TypeScript         2 hrs 19 mins         █████████░░░░░░░░░░░░░░░░   35.41 %
+Other              2 hrs 1 min           ███████▓░░░░░░░░░░░░░░░░░   30.86 %
+Markdown           41 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+Python             27 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+Prisma             19 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Bash               15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+.env file          10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 ```
 
 <!--END_SECTION:waka--> 
