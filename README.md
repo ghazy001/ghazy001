@@ -147,17 +147,17 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
   <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2026 - To: 07 June 2026
+From: 01 June 2026 - To: 08 June 2026
 
-Total Time: 25 hrs 45 mins
+Total Time: 22 hrs 40 mins
 
-TypeScript         18 hrs 4 mins         █████████████▒░░░░░░░░░░░   53.14 %
-Other              8 hrs 14 mins         ██████░░░░░░░░░░░░░░░░░░░   24.25 %
-Markdown           1 hr 39 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Text               1 hr 23 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-YAML               58 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-JSON               44 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Docker             37 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+TypeScript         16 hrs 21 mins        █████████████▒░░░░░░░░░░░   53.82 %
+Other              7 hrs 44 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.46 %
+Markdown           1 hr 9 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Text               1 hr 7 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+YAML               58 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Docker             37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Python             33 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 
 <!--END_SECTION:waka--> 
