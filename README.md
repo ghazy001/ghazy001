@@ -147,17 +147,17 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
   <!--START_SECTION:waka-->
 
 ```txt
-From: 18 June 2026 - To: 25 June 2026
+From: 19 June 2026 - To: 26 June 2026
 
-Total Time: 18 hrs 11 mins
+Total Time: 10 hrs 40 mins
 
-TypeScript   9 hrs 35 mins         ███████████░░░░░░░░░░░░░░   43.72 %
-Markdown     4 hrs 41 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.40 %
-Other        3 hrs 44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.04 %
-TeX          1 hr 39 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-Prisma       58 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-PlantUML     26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Python       13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+TypeScript   4 hrs 31 mins         ████████▒░░░░░░░░░░░░░░░░   32.69 %
+Other        3 hrs 10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.97 %
+Markdown     2 hrs 22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
+TeX          1 hr 39 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+Prisma       40 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+Python       27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+PlantUML     26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
 ```
 
 <!--END_SECTION:waka--> 
