@@ -147,17 +147,17 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
   <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2026 - To: 28 June 2026
+From: 22 June 2026 - To: 29 June 2026
 
-Total Time: 11 hrs 11 mins
+Total Time: 10 hrs 41 mins
 
-TypeScript    5 hrs 1 min           █████████░░░░░░░░░░░░░░░░   35.82 %
-Other         2 hrs 51 mins         █████░░░░░░░░░░░░░░░░░░░░   20.31 %
-CSS           1 hr 42 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
-TeX           1 hr 39 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
-Markdown      1 hr 20 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-Python        35 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-HTML          24 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+TypeScript    4 hrs 53 mins         █████████▒░░░░░░░░░░░░░░░   36.93 %
+Other         2 hrs 33 mins         █████░░░░░░░░░░░░░░░░░░░░   19.34 %
+CSS           1 hr 42 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
+TeX           1 hr 39 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+Markdown      1 hr 14 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
+Python        35 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+HTML          24 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
 ```
 
 <!--END_SECTION:waka--> 
