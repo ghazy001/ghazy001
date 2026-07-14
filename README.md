@@ -147,17 +147,17 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
   <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2026 - To: 12 July 2026
+From: 06 July 2026 - To: 13 July 2026
 
-Total Time: 20 hrs 31 mins
+Total Time: 27 hrs 8 mins
 
-TypeScript   15 hrs 55 mins        ██████████████████▓░░░░░░   74.93 %
-Markdown     1 hr 36 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-JSON         1 hr 6 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-Bash         49 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-Other        44 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-CSS          31 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-Git Config   17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+TypeScript   22 hrs 7 mins         ████████████████████░░░░░   79.40 %
+Markdown     1 hr 36 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+JSON         1 hr 6 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+CSS          56 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Bash         49 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Other        44 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Git Config   17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka--> 
