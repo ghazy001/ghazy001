@@ -147,15 +147,14 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
   <!--START_SECTION:waka-->
 
 ```txt
-From: 14 July 2026 - To: 21 July 2026
+From: 15 July 2026 - To: 22 July 2026
 
-Total Time: 1 hr 54 mins
+Total Time: 57 mins
 
-TypeScript   1 hr 16 mins          █████████████████░░░░░░░░   67.36 %
-Text         20 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
-Bash         9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
-Markdown     4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-CSS          3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+TypeScript   23 mins               ██████████░░░░░░░░░░░░░░░   40.44 %
+Text         20 mins               █████████░░░░░░░░░░░░░░░░   35.69 %
+Bash         9 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
+Markdown     4 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
 ```
 
 <!--END_SECTION:waka--> 
